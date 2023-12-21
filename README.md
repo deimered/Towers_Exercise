@@ -1,34 +1,9 @@
 # Towers_Exercise
 
-3P        4P        5P
-a - c     a - b     a - c     
-a - b     a - c     a - b
-c - b     b - c     c - b
-a - c     a - b     a - c
-b - a     c - a     b - a
-b - c     c - b     b - c
-a - c     a - b     a - c
-          a - c     a - b
-          b - c     c - b
-          b - a     c - a
-          c - a     b - a
-          b - c     c - b
-          a - c     a - c
-          a - c     a - b
-                    c - b
-                    a - c
-                    b - a
-                    b - c
-                    a - c
-                    b - a
-                    c - b
-                    c - a
-                    b - a
-                    b - c
-                    a - c
-                    a - b
-                    c - b
-                    a - c
-                    b - a
-                    b - c
-                    a - c
+Algorithm for solving the Tower of Hanoi.
+
+Executing the file "tower_of_hanoi" will showcase the solution through prints.
+
+Executing the file "tower_of_hanoi_with_visual" will demonstrate the solution with an animation created using pygame.
+
+Both files accept a single command line argument, determining the number of disks in the problem. The specified number must be an integer greater than 0.
